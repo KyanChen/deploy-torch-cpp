@@ -1,0 +1,17 @@
+bin/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-debug-visual-studio/
+cmake-build-release-visual-studio/
+cmake-build-debug-mingw/
+cmake-build-release-mingw/
+gf7_1_pan/
+libs/
+*.pt
+*.pth
+.idea
+.vscode
+*.onnx
+*.pb
+*.engine
+
